@@ -1,0 +1,17 @@
+# Oto_Yikama_Otomasyonu
+ 
+### Merhabalar, bizim projemizin adı "oto yıkama dükkanı otomasyonu". Bu projemizde amacımız oto yıkama dükkanları sahiplerinin müşteri bilgilerini ve ödeme bilgilerini kolayca kaydetme ve şifreli bir şekilde korumasıdır, ayrıca projemiz sayesinde bilgilerin kaybolma ihtimalide minimum seviye de olacaktır. Projemizin sayfaları sade şekilde tasarlandığı için kullanım kolaylığı sağlamaktadır.
+### ---Otomasyon Diyagramı 
+![Ekran Görüntüsü (30)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/919c3948-5f59-46d8-b3b2-0c2d1abeeade)  
+### ---Login Ekranı
+![Ekran Görüntüsü (85)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/b47e043f-5063-4692-81f9-25ae7d6dc61b)
+### ---Yönetici Paneli 
+![Ekran Görüntüsü (86)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/010772c4-32af-4db1-9c76-64f944f43c96)
+### ---Şifre Güncelleme Ekranı 
+![Ekran Görüntüsü (84)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/8ff74560-314e-43ac-97b8-ab7918aad232)
+### ---Fiyat Bilgilerini Gösteren Ekran
+![Ekran Görüntüsü (88)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/aa29d5bb-a3c0-4b93-bf5b-35232fa30577)
+### ---Ödeme Bilgilerini Gösteren Ekran
+![Ekran Görüntüsü (89)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/4666a422-64d8-4c5b-a6fb-2703e32d6140)
+### ---Bilgiler İçin Detaylı Arama Yapan Ekran
+![Ekran Görüntüsü (87)](https://github.com/ozkan-65/Oto_Yikama_Otomasyonu/assets/90394055/e96169da-4c0b-4d5e-bc9d-5f0e386903fa)
